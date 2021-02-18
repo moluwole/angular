@@ -44,6 +44,11 @@
             "desc": "A collection of Angular builders for your Angular projects",
             "url": "https://angular-builders.dev/",
             "title": "Angular Builders"
+          },
+          "butter-starter": {
+            "desc": "Getting started integrating API Based CMS into your Angular Application",
+            "url": "https://github.com/ButterCMS/buttercms-angular-tutorial",
+            "title": "Butter CMS"
           }
         }
       },
@@ -282,6 +287,12 @@
             "title": "Scully",
             "logo": "https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/PNG/Green/scullyio-logo-green.png",
             "url": "https://scully.io"
+          },
+          "butter": {
+            "desc": "ButterCMS is a headless CMS that lets you manage content using our dashboard and integrate it into your Angular project",
+            "title": "ButterCMS",
+            "logo": "https://buttercms.com/static/v2/images/logo.fb7c1035e94d.svg",
+            "url": "https://buttercms.com"
           }
         }
       },
@@ -682,6 +693,12 @@
             "logo": "",
             "title": "DotNetTricks",
             "url": "https://www.dotnettricks.com/courses/angular"
+          },
+          "api-based-cms": {
+             "desc": "Add API based CMS Capability to your Angular Application",
+             "logo": "",
+             "title": "ButterCMS",
+             "url": "https://buttercms.com/docs/api-client/angular"
           }
         }
       },
